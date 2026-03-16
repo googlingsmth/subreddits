@@ -1,5 +1,5 @@
-ClaudeAI
 Marathon
+ClaudeAI
 AskSocialists
 askanything
 slaythespire
@@ -23,6 +23,7 @@ IPTV_without_bots
 PataHaiAajKyaHua
 BodyHackGuide
 ClaudeCode
+HandwritingAnalysis
 UAE
 isthisAI
 Over30Selfie
@@ -32,4 +33,3 @@ howislivingthere
 Alt_Goth
 SaaS
 FitGirlRepack
-okbuddycinephile
