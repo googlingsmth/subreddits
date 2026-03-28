@@ -10,9 +10,7 @@ askanything
 ClaudeCode
 StyleIT
 Mckenna_Grace
-BroadcastingQueens
 WhyDoIWantThis
-SeriousConversation
 SciFiQueens
 AestheticWiki
 oil
@@ -33,3 +31,5 @@ LocalLLaMA
 residentevil
 ArcRaiders
 90s
+Repsneakers
+DiveInYouCoward
